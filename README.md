@@ -1,4 +1,4 @@
-# go-tutorials
+# go-practices
 
 ## Discription
 
